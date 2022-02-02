@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Leonardo, Front-end dev.
+## Hi there 👋, I'm Leonardo, Programmer.
 <br>
 <!-- Github stats -->
 <div align="center">
