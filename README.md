@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Leonardo, Programmer.
+## Hi there 👋, I'm Leonardo, Javascript/Typescript Fullstack Programmer.
 <br>
 <!-- Github stats -->
 <div align="center">
